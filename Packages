@@ -1,31 +1,6 @@
-Package: com.fivepixels.mariomaps
-Name: MarioMaps (for Google Maps)
-Author: FivePixels
-Description: Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12. Credit to Soh Satoh for the Flex 3 Patch this tweak is based off of.
-Depends: mobilesubstrate
-Maintainer: FivePixels
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.0.1
-Installed-Size: 72
-MD5sum: 5a9d17fcdec88dd7bc7aff441b2cd83a
-Size: 2728
-Filename: debs/com.fivepixels.deb
-Depiction: https://fivepixels.xyz/depictions/?p=com.fivepixels.mariomaps
-
-Package: com.fivepixels.mariomaps
-Name: MarioMaps (for Google Maps)
-Author: FivePixels
-Description: Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12. Credit to Soh Satoh for the Flex 3 Patch this tweak is based off of.
-Depends: mobilesubstrate
-Maintainer: FivePixels
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.0.2
-Installed-Size: 72
-MD5sum: 1fbc158f73c9297c693c770c8240dc8b
-Size: 2276
-Filename: debs/com.fivepixels.mariomaps102.deb
-Depiction: https://fivepixels.xyz/depictions/?p=com.fivepixels.mariomaps
+MD5sum: 
+Size: 
+Filename: debs/*.deb
+Depiction: https://fivepixels.xyz/depictions/?p=
 
 
