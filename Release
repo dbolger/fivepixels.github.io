@@ -1,8 +1,8 @@
-Origin: Jake's Boomerang Repo
-Label: Jake's Boomerang Repo
+Origin: FivePixels' Repository
+Label: FivePixels' Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Jake's Boomerang Repository
+Description: FivePixels' Repository

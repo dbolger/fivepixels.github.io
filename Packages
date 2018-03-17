@@ -1,46 +1,16 @@
-Package: com.uroboro.wafix
-Name: WAFix
+Package: com.fivepixels.mariomaps
+Name: MarioMaps (for Google Maps)
+Author: FivePixels
+Description: Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12. Credit to Soh Satoh for the Flex 3 Patch this tweak is based off of.
 Depends: mobilesubstrate
+Maintainer: FivePixels
 Architecture: iphoneos-arm
-Description: Bypass deprecation and prevent crashes.
-Maintainer: uroboro <uroboro845@gmail.com>
-Author: uroboro <uroboro845@gmail.com>
 Section: Tweaks
-Version: 0.0.1-13+debug
-Installed-Size: 140
-MD5sum: 3eac62f325e05862f36a35725f220ae8
-Size: 7146
-Filename: debs/Packages.deb
-Depiction: https://fivepixels.xyz/depictions/?p=com.uroboro.wafix
-
-Package: com.jake0oo0.instamute
-Name: InstaMute
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Mute Instagram Followers
-Maintainer: Jake0oo0 <jaek0oo0dev@gmail.com>
-Author: Jake0oo0 <jaek0oo0dev@gmail.com>
-Section: Tweaks
-Version: 1.0.2-1
-Installed-Size: 192
-MD5sum: 08b8d645e3b8c191646e5e6a2153f154
-Size: 13692
-Filename: debs/com.jake0oo0.instamute.deb
-Depiction: https://fivepixels.xyz/depictions/?p=com.jake0oo0.instamute
-
-Package: com.jake0oo0.noalertloop
-Name: NoAlertLoop
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Prevent websites from infinitely creating popups
-Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
-Author: Jake0oo0 <jake0oo0dev@gmail.com>
-Section: Tweaks
-Version: 1.0.1-1
-Installed-Size: 220
-MD5sum: 8411f4752a715024f153871b8f8edf9a
-Size: 30892
-Filename: debs/com.jake0oo0.noalertloop.deb
-Depiction: https://fivepixels.xyz/depictions/?p=com.jake0oo0.noalertloop
+Version: 1.0.1
+Installed-Size: 72
+MD5sum: 5a9d17fcdec88dd7bc7aff441b2cd83a
+Size: 2728
+Filename: debs/com.fivepixels.deb
+Depiction: https://fivepixels.xyz/depictions/?p=com.fivepixels.mariomaps
 
 
