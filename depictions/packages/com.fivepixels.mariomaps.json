@@ -1,9 +1,9 @@
 {
-    "name": "MarioMaps",
+    "name": "MarioMaps (for Google Maps)",
     "package": "com.fivepixels.mariomaps",
-    "author": "Jake0oo0",
+    "author": "FivePixels",
     "version": "1.0.2",
-    "description": "View and export important data and info from your iDevice",
+    "description": "",
     "changelog": {
         "1.0.1": [
             "Initial Alpha Release",
