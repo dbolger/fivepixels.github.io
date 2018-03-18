@@ -11,7 +11,7 @@ Installed-Size: 72
 MD5sum: 5a9d17fcdec88dd7bc7aff441b2cd83a
 Size: 2728
 Filename: debs/com.fivepixels.mariomaps101.deb
-Depiction: https://fivepixels.xyz/depictions/?p=com.fivepixels.mariomaps
+Depiction: https:///depictions/?p=com.fivepixels.mariomaps
 
 Package: com.fivepixels.mariomaps
 Name: MarioMaps (for Google Maps)
@@ -26,6 +26,6 @@ Installed-Size: 72
 MD5sum: 1fbc158f73c9297c693c770c8240dc8b
 Size: 2276
 Filename: debs/com.fivepixels.mariomaps102.deb
-Depiction: https://fivepixels.xyz/depictions/?p=com.fivepixels.mariomaps
+Depiction: https:///depictions/?p=com.fivepixels.mariomaps
 
 
