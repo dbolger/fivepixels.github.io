@@ -1,0 +1,18 @@
+{
+    "name": "MarioMaps (for Google Maps)",
+    "package": "com.fivepixels.mariomaps",
+    "author": "FivePixels",
+    "version": "1.0.2",
+    "description": "Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12. Credit to Soh Satoh for the Flex 3 Patch this tweak is based off of.",
+    "changelog": {
+        "1.0.1": [
+            "Initial Release"
+        ],
+        "1.0.2": [
+            "Fixed preference issue with 64bit devices"
+        ]
+    },
+    "links": {
+        "<span class=\"glyphicon glyphicon-heart\"></span> Developer's Twitter": "https://twitter.com/"
+    }
+}
