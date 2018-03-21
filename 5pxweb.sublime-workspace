@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"strong",
+				"strong	Tag"
+			],
+			[
 				"acc",
 				"accountsFinal"
 			],
@@ -592,6 +596,8 @@
 	},
 	"file_history":
 	[
+		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/index.html",
+		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/README.txt",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/CNAME",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/css/index.css",
 		"/Users/dylanbolger/Documents/TweakProjects/lockscreen11/Tweak.xm",
@@ -717,9 +723,7 @@
 		"/Users/hetelek/Desktop/outdir/GKLocalPlayerInternal.h",
 		"/Users/hetelek/Desktop/outdir/GKFriendPlayerInternal.h",
 		"/Users/hetelek/Desktop/outdir/GKFamiliarPlayerInternal.h",
-		"/Users/hetelek/Desktop/outdir/GKPlayerInternal.h",
-		"/Users/hetelek/Desktop/outdir/GKInternalRepresentation.h",
-		"/Users/hetelek/Desktop/a.txt"
+		"/Users/hetelek/Desktop/outdir/GKPlayerInternal.h"
 	],
 	"find":
 	{
@@ -727,7 +731,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			""
@@ -738,6 +742,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"image",
+			"key",
+			"ul class",
+			"reddit",
 			"pem",
 			"hetelek",
 			"tweetSweetNothings",
@@ -861,11 +869,7 @@
 			"Slices",
 			"slices",
 			"appGroup",
-			"ACTIVATION_BACKUP_SERVER",
-			"-f",
-			"objc_setAssociatedObject",
-			"switcherGestureInProgress",
-			"kill"
+			"ACTIVATION_BACKUP_SERVER"
 		],
 		"highlight": true,
 		"in_selection": false,
