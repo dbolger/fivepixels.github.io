@@ -598,6 +598,7 @@
 	[
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/index.html",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/README.txt",
+		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/depictions/packages/com.fivepixels.mariomaps.json",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/CNAME",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/css/index.css",
 		"/Users/dylanbolger/Documents/TweakProjects/lockscreen11/Tweak.xm",
@@ -722,8 +723,7 @@
 		"/Users/hetelek/Desktop/outdir/GKUnauthenticatedPlayerInternal.h",
 		"/Users/hetelek/Desktop/outdir/GKLocalPlayerInternal.h",
 		"/Users/hetelek/Desktop/outdir/GKFriendPlayerInternal.h",
-		"/Users/hetelek/Desktop/outdir/GKFamiliarPlayerInternal.h",
-		"/Users/hetelek/Desktop/outdir/GKPlayerInternal.h"
+		"/Users/hetelek/Desktop/outdir/GKFamiliarPlayerInternal.h"
 	],
 	"find":
 	{
@@ -731,7 +731,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			""
@@ -742,6 +742,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"joined",
 			"image",
 			"key",
 			"ul class",
@@ -868,8 +869,7 @@
 			"authenticatePlayerWithUsername",
 			"Slices",
 			"slices",
-			"appGroup",
-			"ACTIVATION_BACKUP_SERVER"
+			"appGroup"
 		],
 		"highlight": true,
 		"in_selection": false,
