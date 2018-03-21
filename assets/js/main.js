@@ -16,7 +16,7 @@
 						enabled: true,
 
 					// Sets the distance to scroll when using the left/right arrow keys.
-						distance: 50
+						distance: 100
 
 				},
 
