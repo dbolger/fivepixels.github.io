@@ -25,8 +25,7 @@
 								<div class="content color0 span-3-75">
 									<h1 class="major">Hello, my name<br />
 									is FivePixels.</h1>
-									<p>But some refer to me as my first name, <strong>Dylan</strong>. I am a 17 year old iOS Tweak and Application Devloper. I've also worked with macOS Development in applications.<br><br>
-										To see some of my work and learn more about me, <strong><a href="#second">start swiping</a></strong>.</p>
+									<p>But some refer to me as my first name, <strong>Dylan</strong>. I am a 17 year old iOS Tweak and Application Devloper. I've also worked with macOS Development in applications.<br><br><br>
 								</div>
 							</section>
 
@@ -34,13 +33,19 @@
 							<section class="panel color1" id="second">
 								<div class="intro joined">
 									<h2 class="major">Cydia Repository</h2>
-									<p>I host all of my tweaks within my website. To add my Repository source to Cydia, either click the link below or open Cydia and navigate to Sources -> Edit -> Add -> <strong>https://fivepixels.xyz</strong></p><br><br>
-									<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://fivepixels.xyz"><strong>Add to Cydia</strong></a>
+									<p>I host all of my tweaks within my website. To add my Repository source to Cydia, either click the link below or open Cydia and navigate to<br> Sources -> Edit -> Add -> <strong>https://fivepixels.xyz</strong></p>
+									<br>
+									<button onclick="myFunction()">Add to Cydia</button>
+
+									<script>
+									function myFunction() {
+									    location.replace("cydia://url/https://cydia.saurik.com/api/share#?source=https://fivepixels.xyz/")
+									}
+									</script>
+									<br>
 								</div>
 								<div class="inner">
-									<ul class="grid-icons one connected">
 										<img src="images/Cydia-Package.png" alt="none" height="95" width="95">
-									</ul>
 								</div>
 							</section>
 
