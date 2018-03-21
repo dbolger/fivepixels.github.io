@@ -596,6 +596,8 @@
 	},
 	"file_history":
 	[
+		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/README.md",
+		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/5pxweb.sublime-project",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/index.html",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/README.txt",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/depictions/packages/com.fivepixels.mariomaps.json",
@@ -721,9 +723,7 @@
 		"/Users/hetelek/Developer/Tweaks/slices/Slices.plist",
 		"/Applications/iTunes.app/Contents/Info.plist",
 		"/Users/hetelek/Desktop/outdir/GKUnauthenticatedPlayerInternal.h",
-		"/Users/hetelek/Desktop/outdir/GKLocalPlayerInternal.h",
-		"/Users/hetelek/Desktop/outdir/GKFriendPlayerInternal.h",
-		"/Users/hetelek/Desktop/outdir/GKFamiliarPlayerInternal.h"
+		"/Users/hetelek/Desktop/outdir/GKLocalPlayerInternal.h"
 	],
 	"find":
 	{
