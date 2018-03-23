@@ -1,0 +1,126 @@
+Package: com.jake0oo0.appster
+Name: Appster
+Depends: firmware (>= 8.0), mobilesubstrate, applist
+Architecture: iphoneos-arm
+Description: View and export info and content from your iDevice
+Homepage: https://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Utilities
+Version: 1.0.0-30
+Installed-Size: 7992
+MD5sum: 01ebb4af1065fe65f5d70fdbfb8c675d
+Size: 7187440
+Filename: debs/com.jake0oo0.appster.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.appster
+
+Package: com.jake0oo0.instabetter
+Name: InstaBetter
+Depends: firmware (>= 7.0)
+Conflicts: com.jake0oo0.instamute
+Architecture: iphoneos-arm
+Description: The most comprehensive Instagram tweak yet
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Icon: /Library/PreferenceBundles/InstaBetterPrefs.bundle/InstaBetter@3x.png
+Version: 1.7.4-dev-8+debug
+Installed-Size: 1740
+MD5sum: 91a708988eb4fddf94ad10d264ad452f
+Size: 299256
+Filename: debs/com.jake0oo0.instabetter.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instabetter
+
+Package: com.jake0oo0.instadebug
+Name: instadebug
+Depends: mobilesubstrate
+Conflicts: com.jake0oo0.instabetter
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Version: 0.0.2-3+debug
+Installed-Size: 120
+MD5sum: 9a78b13786e05a8285a38a560d4eff8e
+Size: 6104
+Filename: debs/com.jake0oo0.instadebug.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instadebug
+
+Package: com.jake0oo0.instamute
+Name: InstaMute
+Depends: mobilesubstrate
+Conflicts: com.jake0oo0.instabetter
+Architecture: iphoneos-arm
+Description: Mute users from your Instagram feed
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Version: 1.1.0-1
+Installed-Size: 192
+MD5sum: e3a350dedab3d580b5ba3e3c7b3c2f80
+Size: 23316
+Filename: debs/com.jake0oo0.instamute.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.instamute
+
+Package: com.jake0oo0.noalertloop
+Name: NoAlertLoop
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Prevent websites from infinitely creating popups
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Version: 1.0.1-14
+Installed-Size: 196
+MD5sum: a4eadd0abbfef483dc47ce438d7d5998
+Size: 23036
+Filename: debs/com.jake0oo0.noalertloop.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.noalertloop
+
+Package: com.jake0oo0.oneup
+Name: OneUp
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Play a Mario OneUp Sound for every n notifications
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 504
+MD5sum: 8b77c35ddcaf6cb4cbb9c2b06dc1c6f2
+Size: 195348
+Filename: debs/com.jake0oo0.oneup.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.oneup
+
+Package: com.jake0oo0.papergram
+Name: PaperGram
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Set your iOS wallpaper with pictures from Instagram feeds
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 & AOkhtenberg <jake0oo0dev@gmail.com>
+Section: Tweaks
+Icon: /Library/PreferenceBundles/PaperGramPrefs.bundle/PaperGram@3x.png
+Version: 1.0.0-1
+Installed-Size: 516
+MD5sum: 9c625b727dba92407d97ba82a4696875
+Size: 208866
+Filename: debs/com.jake0oo0.papergram.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.jake0oo0.papergram
+
+Package: com.sunshine-api.sunshine-client
+Name: Sunshine
+Architecture: iphoneos-arm
+Description: iOS App for the Overcast Network forums based on the Sunshine Web API
+Maintainer: Jake0oo0 <jake0oo0dev@gmail.com>
+Author: Jake0oo0 <jake0oo0dev@gmail.com>
+Section: Applications
+Version: 0.1.0-23
+Installed-Size: 928
+MD5sum: f5f37d779b3ea8ccf4a1f13e5cb38fc1
+Size: 270758
+Filename: debs/com.sunshine-api.sunshine-client.deb
+Depiction: http://cydia.jakes.site/depictions/?p=com.sunshine-api.sunshine-client
+
+
