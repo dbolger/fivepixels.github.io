@@ -491,14 +491,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "cydia/Packages",
-			"settings":
-			{
-				"buffer_size": 4660,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/Makefile/Make.sublime-build",
 	"command_palette":
@@ -604,6 +596,8 @@
 	},
 	"file_history":
 	[
+		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/Packages",
+		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/repo.sh",
 		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/depictions/packages/com.fivepixels.mariomaps.json",
 		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/depictions/index.html",
 		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/README.md",
@@ -729,9 +723,7 @@
 		"/Users/hetelek/Developer/Tweaks/truepasscode/main.mm",
 		"/Users/hetelek/Downloads/application.nic/Makefile",
 		"/Users/hetelek/Developer/Tweaks/slices/control",
-		"/Users/hetelek/Developer/Tweaks/truepasscodeapp/main.m",
-		"/Users/hetelek/Developer/Tweaks/padclock/padclockprefs/Resources/PadClockPrefs.plist",
-		"/Users/hetelek/Music/iTunes/iTunes Music Library.xml"
+		"/Users/hetelek/Developer/Tweaks/truepasscodeapp/main.m"
 	],
 	"find":
 	{
@@ -903,35 +895,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "cydia/Packages",
-					"settings":
-					{
-						"buffer_size": 4660,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								324,
-								324
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
