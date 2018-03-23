@@ -105,13 +105,6 @@ var infolinks_wsid = 1;
 
   		<script>
 			$(document).ready(function() {
-				var dPackage = getParameterByName("p");
-				if (!dPackage) {
-					$(".package-error").text("This package doesn't seem to exist!").css("display", "block");
-					$(".package-info").css("display", "none");
-					$(".package-name").text("Not Found");
-					return;
-				}
 
 		  		$.getJSON("packages/" + dPackage + ".json", function(data) {
 					document.title = data.name + " by " + data.author;
