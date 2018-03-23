@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>FivePixels Cydia Repository</title>
+		<title>Cydia Tweak</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="icon" href="/repo/CydiaIcon.png">
@@ -105,6 +105,13 @@ var infolinks_wsid = 1;
 
   		<script>
 			$(document).ready(function() {
+				var dPackage = getParameterByName("p");
+				if (!dPackage) {
+					$(".package-error").text("This package doesn't seem to exist!").css("display", "block");
+					$(".package-info").css("display", "none");
+					$(".package-name").text("Not Found");
+					return;
+				}
 
 		  		$.getJSON("packages/" + dPackage + ".json", function(data) {
 					document.title = data.name + " by " + data.author;
