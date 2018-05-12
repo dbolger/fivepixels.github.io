@@ -596,6 +596,7 @@
 	},
 	"file_history":
 	[
+		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/index.html",
 		"/Users/dylanbolger/Documents/PersonalRepo/fivepixels.github.io/index.html",
 		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/Packages",
 		"/Users/dylanbolger/Documents/fivepixels.github.io/cydia/repo.sh",
@@ -722,8 +723,7 @@
 		"/Users/hetelek/Developer/Tweaks/truepasscodeapp/truepasscodeappApplication.mm",
 		"/Users/hetelek/Developer/Tweaks/truepasscode/main.mm",
 		"/Users/hetelek/Downloads/application.nic/Makefile",
-		"/Users/hetelek/Developer/Tweaks/slices/control",
-		"/Users/hetelek/Developer/Tweaks/truepasscodeapp/main.m"
+		"/Users/hetelek/Developer/Tweaks/slices/control"
 	],
 	"find":
 	{
@@ -742,6 +742,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"PINPAL's",
 			"joined",
 			"image",
 			"key",
@@ -868,8 +869,7 @@
 			"accountServicePrivateProxy",
 			"authenticatePlayerWithUsername",
 			"Slices",
-			"slices",
-			"appGroup"
+			"slices"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -877,6 +877,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"FivePixels'",
 			"workingDirectory",
 			"\\n",
 			"",
@@ -945,7 +946,7 @@
 	},
 	"replace":
 	{
-		"height": 42.0
+		"height": 77.0
 	},
 	"save_all_on_build": true,
 	"select_file":
