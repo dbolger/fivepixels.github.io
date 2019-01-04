@@ -1,3 +1,3 @@
-# My website, it's pretty neat right?
+# My website
 
-[link](https://fivepixels.xyz)
+## It's my website, what else did you need to know? It also includes my Cydia Repo.
