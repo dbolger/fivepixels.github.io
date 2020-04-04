@@ -1,0 +1,14 @@
+Package: com.fivepixels.mariomaps
+Name: MarioMaps (for Google Maps)
+Author: FivePixels
+Description: Mario for Google Maps v4.46.12
+Depends: mobilesubstrate
+Maintainer: FivePixels
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
+Installed-Size: 72
+MD5sum: c258f375dc87099ba825499b67b3ba9e
+Size: 3212
+Filename: debs/com.fivepixels.mariomaps.deb
+Depiction: https://fivepixels.xyz/repo/depictions/
