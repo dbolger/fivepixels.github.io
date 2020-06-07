@@ -1,14 +1,28 @@
-Package: com.fivepixels.mariomaps
-Name: MarioMaps (for Google Maps)
-Author: FivePixels
-Description: Mario for Google Maps v4.46.12
-Depends: mobilesubstrate
-Maintainer: FivePixels
-Architecture: iphoneos-arm
+Package: com.5px.signate
+Version: 1.0-30
 Section: Tweaks
+Maintainer: FivePixels
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.5px.signate.deb
+Size: 9544
+Installed-Size: 200
+MD5sum: 27754d7ecbf234d3430fd5677b58f137
+Description: Uptime displayed straight on your lockscreen
+Name: Signate
+Author: FivePixels
+
+Package: com.fivepixels.mariomaps
 Version: 1.0
+Section: Tweaks
+Maintainer: FivePixels
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//com.fivepixels.mariomaps.deb
+Size: 3212
 Installed-Size: 72
 MD5sum: c258f375dc87099ba825499b67b3ba9e
-Size: 3212
-Filename: debs/com.fivepixels.mariomaps.deb
-Depiction: https://fivepixels.xyz/repo/depictions/
+Description: Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12.
+Name: MarioMaps (for Google Maps)
+Author: FivePixels
+
