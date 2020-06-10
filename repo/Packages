@@ -9,6 +9,7 @@ Size: 32598
 Installed-Size: 388
 MD5sum: 1e16a7ff2cfb8f0c956323184196e609
 Description: Uptime displayed straight on your lockscreen
+SileoDepiction: https://fivepixels.xyz/
 Name: Signate
 Author: FivePixels
 
@@ -23,6 +24,7 @@ Size: 3212
 Installed-Size: 72
 MD5sum: c258f375dc87099ba825499b67b3ba9e
 Description: Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12.
+SileoDepiction: https://fivepixels.xyz/
 Name: MarioMaps (for Google Maps)
 Author: FivePixels
 
