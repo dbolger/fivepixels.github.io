@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: FivePixels
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//com.5px.signate.deb
+Filename: /debs/com.5px.signate.deb
 Size: 32598
 Installed-Size: 388
 MD5sum: 1e16a7ff2cfb8f0c956323184196e609
@@ -18,7 +18,7 @@ Section: Tweaks
 Maintainer: FivePixels
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//com.5px.mariomaps.deb
+Filename: /debs/com.5px.mariomaps.deb
 Size: 3212
 Installed-Size: 72
 MD5sum: c258f375dc87099ba825499b67b3ba9e
