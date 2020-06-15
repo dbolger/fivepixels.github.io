@@ -1,30 +1,51 @@
+Package: com.5px.intemperate
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: FivePixels
+Installed-Size: 340
+Depends: mobilesubstrate, firmware (>=8.0)
+Filename: ./com.5px.intemperate.deb
+SileoDepiction: https://fivepixels.xyz
+Size: 24320
+MD5sum: a69d19bf499c49a761d4dfe1aac6dfe5
+SHA1: cf56d81c88c33ae87b6012a759d733f33d8560c1
+SHA256: e54b72aeb35e649335672a0c96dac41c238e35feb93a868019118e42ab32bd09
+Section: Tweaks
+Description: The temperature warning no longer exists.
+Author: FivePixels
+Name: Intemperate
+
 Package: com.5px.signate
 Version: 1.0
-Section: Tweaks
-Maintainer: FivePixels
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.5px.signate.deb
-Size: 32598
+Maintainer: FivePixels
 Installed-Size: 388
+Depends: mobilesubstrate
+Filename: ./com.5px.signate.deb
+SileoDepiction: https://fivepixels.xyz
+Size: 32598
 MD5sum: 1e16a7ff2cfb8f0c956323184196e609
+SHA1: 7fa3550ea6fdb0572db210500c9b8a0bdc202db3
+SHA256: e6c6cd25bd4d1240f98643297daa6fe7eff215a35692a90e2cab6de42eb2ff87
+Section: Tweaks
 Description: Uptime displayed straight on your lockscreen
-SileoDepiction: https://fivepixels.xyz/
-Name: Signate
 Author: FivePixels
+Name: Signate
 
 Package: com.fivepixels.mariomaps
 Version: 1.0
-Section: Tweaks
-Maintainer: FivePixels
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.5px.mariomaps.deb
-Size: 3212
+Maintainer: FivePixels
 Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./com.5px.mariomaps.deb
+SileoDepiction: https://fivepixels.xyz
+Size: 3212
 MD5sum: c258f375dc87099ba825499b67b3ba9e
+SHA1: 9bb559d8c63c77ac0ae895b02232f73317116f26
+SHA256: 4d74a7106e77d991d4a4575418cf1510b4d54bcaae81565b306ed8dcb7256372
+Section: Tweaks
 Description: Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12.
-SileoDepiction: https://fivepixels.xyz/
-Name: MarioMaps (for Google Maps)
 Author: FivePixels
+Name: MarioMaps (for Google Maps)
 
