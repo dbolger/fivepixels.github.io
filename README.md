@@ -1,3 +1,3 @@
 # My website
 
-It's my [website](https://fivepixels.xyz), what else did you need to know? It also includes my Cydia Repo.
+It's my basic [website](https://fivepixels.xyz). 

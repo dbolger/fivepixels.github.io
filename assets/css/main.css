@@ -36,6 +36,12 @@ a:active {
 section {
 	padding-left: 125px;
 	padding-bottom: 50px;
+	line-height: 20px;
+}
+
+section#abstract {
+	float:right;
+	padding-right: 40%;
 }
 
 header {
@@ -43,18 +49,10 @@ header {
 	padding-left: 125px;
 }
 
-section#quicklinks {
-	line-height: 40px;
-	
-}
-
-section#quicklinks ul {
+section ul {
 	padding-left: 0px;
 	list-style-type: none;
-}
-
-section#intro {
-	color: black;
+	line-height:20px;
 }
 
 
