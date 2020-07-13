@@ -4,8 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 340
 Depends: mobilesubstrate, firmware (>=8.0)
-Filename: /debs/com.5px.intemperate.deb
-SileoDepiction: https://fivepixels.xyz
+Filename: ./com.5px.intemperate.deb
 Size: 24320
 MD5sum: a69d19bf499c49a761d4dfe1aac6dfe5
 SHA1: cf56d81c88c33ae87b6012a759d733f33d8560c1
@@ -21,12 +20,27 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 388
 Depends: mobilesubstrate
-Filename: /debs/com.5px.signate.deb
-SileoDepiction: https://fivepixels.xyz
+Filename: ./com.5px.signate.deb
 Size: 32598
 MD5sum: 1e16a7ff2cfb8f0c956323184196e609
 SHA1: 7fa3550ea6fdb0572db210500c9b8a0bdc202db3
 SHA256: e6c6cd25bd4d1240f98643297daa6fe7eff215a35692a90e2cab6de42eb2ff87
+Section: Tweaks
+Description: Uptime displayed straight on your lockscreen
+Author: FivePixels
+Name: Signate
+
+Package: com.5px.signate
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: FivePixels
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./com.5px.signate_1.1_iphoneos-arm.deb
+Size: 33426
+MD5sum: de4f258b404727881922331455ed2951
+SHA1: 1dd5268bc5dd9fae88fe9764335290daaaa3aabf
+SHA256: 71a1e7da42e6b4cb72efe18bb88dd2143f9285ed98d8fd1ecb9307b5af25dfc3
 Section: Tweaks
 Description: Uptime displayed straight on your lockscreen
 Author: FivePixels
@@ -38,8 +52,7 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: /debs/com.5px.mariomaps.deb
-SileoDepiction: https://fivepixels.xyz
+Filename: ./com.5px.mariomaps.deb
 Size: 3212
 MD5sum: c258f375dc87099ba825499b67b3ba9e
 SHA1: 9bb559d8c63c77ac0ae895b02232f73317116f26
