@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 340
 Depends: mobilesubstrate, firmware (>=8.0)
-Filename: ./com.5px.intemperate.deb
+Filename: ./debs/com.5px.intemperate.deb
 Size: 24320
 MD5sum: a69d19bf499c49a761d4dfe1aac6dfe5
 SHA1: cf56d81c88c33ae87b6012a759d733f33d8560c1
@@ -21,7 +21,7 @@ Maintainer: FivePixels
 Installed-Size: 344
 Pre-Depends: firmware (>= 8.0)
 Depends: mobilesubstrate, firmware (>=9.0)
-Filename: ./com.5px.intemperate_1.1_iphoneos-arm.deb
+Filename: ./debs/com.5px.intemperate_1.1_iphoneos-arm.deb
 Size: 28872
 MD5sum: d67b7fe55f782058c57fbca3e5925305
 SHA1: 1411f121d25db77896c185054aadd8910206b2ab
@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 388
 Depends: mobilesubstrate
-Filename: ./com.5px.signate.deb
+Filename: ./debs/com.5px.signate.deb
 Size: 32598
 MD5sum: 1e16a7ff2cfb8f0c956323184196e609
 SHA1: 7fa3550ea6fdb0572db210500c9b8a0bdc202db3
@@ -53,7 +53,7 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 260
 Depends: mobilesubstrate
-Filename: ./com.5px.signate_1.1_iphoneos-arm.deb
+Filename: ./debs/com.5px.signate_1.1_iphoneos-arm.deb
 Size: 33426
 MD5sum: de4f258b404727881922331455ed2951
 SHA1: 1dd5268bc5dd9fae88fe9764335290daaaa3aabf
@@ -69,7 +69,7 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 260
 Depends: mobilesubstrate
-Filename: ./com.5px.signate_1.2_iphoneos-arm.deb
+Filename: ./debs/com.5px.signate_1.2_iphoneos-arm.deb
 Size: 33424
 MD5sum: 97969b449e152542828bde9082e52653
 SHA1: 908184a893ad61aa667b71db12f79c016d829672
@@ -85,7 +85,7 @@ Architecture: iphoneos-arm
 Maintainer: FivePixels
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./com.5px.mariomaps.deb
+Filename: ./debs/com.5px.mariomaps.deb
 Size: 3212
 MD5sum: c258f375dc87099ba825499b67b3ba9e
 SHA1: 9bb559d8c63c77ac0ae895b02232f73317116f26
