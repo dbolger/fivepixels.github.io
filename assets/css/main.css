@@ -55,7 +55,7 @@ body#about header ul#nav {
   width: 403.2px;
 }
 ul#nav li {
-	font-size: 12px;
+  font-size: 12px;
   margin: 1.5em;
   width: 20%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
   text-align: center; /* If you want the text to be centered */
@@ -69,10 +69,21 @@ body#about {
   max-width: 570px;
 }
 
+ol#vinyls li {
+  font-family: 'Source Code Pro';
+}
+li.nostyle {
+  list-style-type: none;
+}
+
 body {
-  font-family: 'Source Sans Pro';
   font-size: 14px;
   margin: 0 auto;
+}
+
+p,
+ul {
+  font-family: 'Source Sans Pro';
 }
 
 section#intro h1:after {
@@ -81,8 +92,8 @@ section#intro h1:after {
 }
 
 section#webthings h2:after {
-	content: ' // <3';
-	color: #d3d3d3;
+  content: ' // <3';
+  color: #d3d3d3;
 }
 
 section#projects h1:after {
@@ -112,6 +123,10 @@ div.project.objc h2:after {
   font-style: normal;
   content: ' // Objective-C';
   color: #d3d3d3;
+}
+
+div.project a {
+  font-family: 'Source Code Pro';
 }
 
 h1,
@@ -170,4 +185,16 @@ div.project h1 {
 section h1 {
   font-weight: bold;
   font-size: 28px;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #313134;
+  }
+  body {
+    color: white;
+  }
+  a {
+    color: #0074d9;
+  }
 }
