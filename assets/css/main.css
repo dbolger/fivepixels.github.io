@@ -109,7 +109,13 @@ div.project.js h2:after {
 
 div.project.css h2:after {
   font-style: normal;
-  content: ' // CSS';
+  content: ' /* CSS */';
+  color: #d3d3d3;
+}
+
+div.project.htmlcss h2:after {
+  font-style: normal;
+  content: ' <!-- HTML and CSS -->';
   color: #d3d3d3;
 }
 
