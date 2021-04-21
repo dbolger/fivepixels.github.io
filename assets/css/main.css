@@ -69,7 +69,7 @@ body#about {
   max-width: 570px;
 }
 
-ol#vinyls li {
+ol#vinyls li, ul.tv li, ul.movies li, ul.web li {
   font-family: 'Source Code Pro';
 }
 li.nostyle {
@@ -93,6 +93,13 @@ section#intro h1:after {
 
 section#webthings h2:after {
   content: ' // <3';
+  color: #d3d3d3;
+}
+
+div.project.streamfinder h2:after {
+  font-style: normal;
+  content: ' // Node.js, Angular, MongoDB, Puppeteer';
+  font-size: 0.82em;
   color: #d3d3d3;
 }
 
