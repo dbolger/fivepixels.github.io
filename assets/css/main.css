@@ -210,4 +210,7 @@ section h1 {
   a {
     color: #0074d9;
   }
+  a:hover {
+    color: white;
+  }
 }
