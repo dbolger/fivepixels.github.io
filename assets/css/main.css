@@ -73,7 +73,7 @@ body#about {
   max-width: 570px;
 }
 
-ol#vinyls li, ul.tv li, ul.movies li, ul.web li {
+ol#vinyls li, ul.tv li, ul.movies li, ul.web li, ul.currentread li {
   font-family: 'Source Code Pro';
 }
 li.nostyle {
@@ -95,20 +95,10 @@ section#intro h1:after {
   color: #d3d3d3;
 }
 
-section#webthings h2:after {
-  content: ' // <3';
-  color: #d3d3d3;
-}
-
 div.project.streamfinder h2:after {
   font-style: normal;
   content: ' // Node.js, Angular, MongoDB, Puppeteer';
   font-size: 0.82em;
-  color: #d3d3d3;
-}
-
-section#projects h1:after {
-  content: ' // :)';
   color: #d3d3d3;
 }
 
