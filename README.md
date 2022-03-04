@@ -1,3 +1,1 @@
-# My website
-
-It's my basic [website](https://fivepixels.xyz). 
+Website is no longer sourced here. View the source [here](https://git.fivepixels.me/fivepixels.me/).
